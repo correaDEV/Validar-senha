@@ -17,7 +17,7 @@ Verifica se a senha tem pelo menos 8 caracteres de comprimento.
 <hr>
 
 <h1>Como Usar</h1>
-Abra o arquivo index.html em qualquer navegador da web.
+Abra o arquivo index.html em qualquer navegador da web..
 Insira uma senha no campo de entrada.
 Observe as regras de validação aparecendo em tempo real abaixo do campo de entrada conforme você digita.
 <hr>
