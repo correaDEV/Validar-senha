@@ -25,4 +25,4 @@ Observe as regras de validação aparecendo em tempo real abaixo do campo de ent
 <h1> Recursos Adicionais </h1>
 O projeto utiliza a biblioteca Font Awesome para os ícones.
 O arquivo script.js contém o código JavaScript para validar a senha.
-O arquivo style.css contém as folhas de estilo para o layout do projeto.
+O arquivo style.css contém as folhas de estilo para o layout do projeto..
